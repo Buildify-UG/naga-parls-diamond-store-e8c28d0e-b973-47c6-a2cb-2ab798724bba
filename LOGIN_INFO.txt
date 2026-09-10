@@ -1,0 +1,96 @@
+=====================================
+NAGA PEARLS - LOGIN INFORMATION
+=====================================
+
+ADMIN ACCOUNT:
+Email: admin@nagapearls.com
+Password: admin123
+
+DEMO CLIENT ACCOUNT:
+Email: client@nagapearls.com
+Password: client123
+
+=====================================
+DIAMOND INVESTMENT PLANS
+=====================================
+
+Plan 1: Emerald Dream
+Price: ₦10,000 | Daily Profit: ₦3,000
+
+Plan 2: Sapphire Elegance
+Price: ₦15,000 | Daily Profit: ₦5,500
+
+Plan 3: Ruby Radiance
+Price: ₦20,000 | Daily Profit: ₦7,000
+
+Plan 4: Diamond Brilliance
+Price: ₦25,000 | Daily Profit: ₦9,500
+
+Plan 5: Crystal Crown
+Price: ₦30,000 | Daily Profit: ₦10,000
+
+Plan 6: Platinum Treasure
+Price: ₦50,000 | Daily Profit: ₦18,000
+
+Plan 7: Golden Glory
+Price: ₦75,000 | Daily Profit: ₦20,000
+
+Plan 8: Supreme Sovereign
+Price: ₦100,000 | Daily Profit: ₦27,000
+
+=====================================
+REFERRAL COMMISSION RATES
+=====================================
+
+Level 1 (Direct): 28%
+Level 2 (Indirect): 10%
+Level 3 (Third-level): 3%
+
+=====================================
+PAYMENT METHODS
+=====================================
+
+1. MTN Mobile Money
+2. AIRTEL Money
+
+Both require transaction ID verification
+
+=====================================
+QUICK ADMIN TASKS
+=====================================
+
+1. Login with admin account
+2. Go to "Pending Deposits" tab
+3. Review and approve deposits
+4. Go to "Manage Products" tab
+5. Edit prices and daily profits
+6. Add new products if needed
+
+=====================================
+QUICK CLIENT TASKS
+=====================================
+
+1. Login with client account
+2. Click "Make Deposit"
+3. Select payment method (MTN/AIRTEL)
+4. Enter amount and transaction ID
+5. Wait for admin approval
+6. Click "Buy Plan" to invest
+7. Go to "Referrals" to share link
+
+=====================================
+FEATURES INCLUDED
+=====================================
+
+✓ Beautiful responsive dashboard
+✓ Admin deposit approval system
+✓ Real-time product price editing
+✓ 8 diamond investment plans
+✓ Daily profit automation
+✓ 3-level referral system
+✓ Wallet management
+✓ Transaction history
+✓ Mobile optimized
+✓ Secure authentication
+
+=====================================
